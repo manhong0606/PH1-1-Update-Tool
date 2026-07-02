@@ -8,7 +8,9 @@ Double-click to open STM32_UART_Programmer_v3.1.exe as shown in the following pi
 
 Summary: The steps for quickly re-flashing a program are as follows: 1-2-3, followed by a detailed 
 introduction with pictures and text. 
+
 <img width="600" height="585" alt="image" src="https://github.com/user-attachments/assets/1f231435-b784-40a9-9c7c-10baf86c597c" />
+
 Step 1: Select the serial port (with CH340K) : COMxx       CH34OK 
 Note: If your computer fails to recognize the CH340 serial port, please download and install the program CH341SER.EXE. 
 <img width="867" height="708" alt="image" src="https://github.com/user-attachments/assets/33895ecf-9f76-4b9d-a48a-811e0a68ed53" />
