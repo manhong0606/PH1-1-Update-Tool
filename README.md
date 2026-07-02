@@ -13,13 +13,20 @@ introduction with pictures and text.
 
 Step 1: Select the serial port (with CH340K) : COMxx       CH34OK 
 Note: If your computer fails to recognize the CH340 serial port, please download and install the program CH341SER.EXE. 
+
 <img width="867" height="708" alt="image" src="https://github.com/user-attachments/assets/33895ecf-9f76-4b9d-a48a-811e0a68ed53" />
+
 Step 2: Click Browse to load the program PH1-1 260610 v9.0.3.hex  
 Note: Please extract it to your computer in advance 
+
 <img width="872" height="703" alt="image" src="https://github.com/user-attachments/assets/13d52b9a-ff12-4f95-b7db-1d1f60a9c4d6" />
+
 Step 3, click Burn(Erase-Write-Verify), and then a prompt box will pop up: 
 Click Yes (Y), and the new program will start re-flashing.
+
 <img width="871" height="708" alt="image" src="https://github.com/user-attachments/assets/16491a7f-58b9-40bf-90de-b04c5af8a18e" />
+
 After following the above three steps, the program will start automatically and wait for it to be fully 
 reflashed. The successful re-flashing prompt is as follows:
+
 <img width="870" height="704" alt="image" src="https://github.com/user-attachments/assets/92deb49a-ae8e-4655-ab8d-de75c551e4c4" />
