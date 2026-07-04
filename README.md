@@ -1,3 +1,7 @@
+# PH1-1 Update Tool
+✅ Latest Version: **V4.0**
+👉 Direct Download: https://github.com/manhong0606/PH1-Update-Tool/releases/tag/V4.0
+
 This tool supports one-click downloading via serial port. The package contains MCU firmware files, serial port drivers, and relevant operation instructions.
 本软件支持 STM32 串口一键烧录下载，安装包内已附带 MCU 程序固件、USB 转串口驱动程序与详细使用操作手册。
 
